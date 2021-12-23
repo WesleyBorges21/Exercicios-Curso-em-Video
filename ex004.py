@@ -1,4 +1,9 @@
-n1 = int(input('Primeiro número:'))
-n2 = int(input('Segundo número:'))
-soma = n1 + n2
-print('A soma é: {}'.format(soma))
+digite = input('Digite algo:')
+print('O tipo primitivo desse valor é {}'.format(type(digite)))
+print('Só tem espaços? {}'.format(digite.isspace()))
+print('É um número? {}'.format(digite.isnumeric()))
+print('É alfabético? {}'.format(digite.isalpha()))
+print('É alfanumérico? {}'.format(digite.isalnum()))
+print('Ésta em maiúsculas? {}'.format(digite.isupper()))
+print('Ésta em minúsculas? {}'.format(digite.islower()))
+print('Ésta capitalizadas? {}'.format(digite.istitle()))
