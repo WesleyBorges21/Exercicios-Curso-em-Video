@@ -1,0 +1,25 @@
+ex001: Crie um programa que escreva "Olá, Mundo!" na tela.
+
+ex002: Crie um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
+
+ex003: Crie um programa que leia dois números e mostre a soma entre eles.
+
+ex004: Crie um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+
+ex005: Crie um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
+
+ex006: Crie um programa que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+
+ex007: Crie um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+
+ex008: Crie um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+
+ex009: Crie um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+
+ex010: Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
+
+ex011: Crie um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2 metros quadrados.
+
+ex012: Crie um programa que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
+
+ex013: Crie um programa que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
