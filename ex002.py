@@ -1,4 +1,4 @@
-dia = input("Qual dia você nasceu?")
-mes = input("Qual mês você nasceu?")
-ano = input("Qual ano você nasceu?")
-print("Você nasceu no dia",dia,"de",mes,"de",ano,". Correto?")
+nome = input('Qual e seu nome?')
+print('E um prazer te conhecer, {}!'.format(nome))
+
+
